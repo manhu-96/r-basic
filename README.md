@@ -25,4 +25,3 @@ Una vez termines el **curso** podrás seguir con los *mejores cursos* de anális
 10. Introducción a la regresión lineal
 11. Introducción a distribuciones de probabilidad
 
-**Al final de todo, vamos a aprender**
